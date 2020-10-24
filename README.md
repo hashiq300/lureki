@@ -1,2 +1,0 @@
-# kureki
-hosting service
